@@ -15,7 +15,7 @@ import Logo from "./images/logo.svg";
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
 */
-export const githubUsername = "Your GitHub username here";
+export const githubUsername = "a-radiator";
 
 // Navbar Logo image
 export const navLogo = null;
@@ -35,57 +35,125 @@ export { HeroDark as Dark };
   Add a second paragraph for the about me section.
 */
 export const moreInfo =
-  "I enjoy learning about technology and helping others use it to improve their lives and be more productive. I built this site with React, React Bootstrap, Redux, and the GitHub REST API.";
+
+  "DevOps/Platform Engineer based in Manchester 🐝 who enjoys learning new tech, homelab and automation. Improving companies' lives through reliable pipelines, observability, clean automation and teaching other. Love dabbling in newer technologies such as running this via Github REST API, React and Github Pages ";
 
 /* Skills
  ************************************************************** 
   Add or remove skills in the SAME format below, choose icons here - https://icon-sets.iconify.design/
 */
 export const skillData = [
+  // Cloud & Infrastructure
   {
     id: 1,
-    skill: <Icon icon="mdi:language-html5" className="display-4" />,
-    name: "HTML5",
+    skill: <Icon icon="logos:aws" className="display-4" />,
+    name: "AWS",
   },
   {
     id: 2,
-    skill: <Icon icon="ion:logo-css3" className="display-4" />,
-    name: "CSS3",
+    skill: <Icon icon="logos:aws-lambda" className="display-4" />,
+    name: "Lambda",
   },
   {
     id: 3,
-    skill: <Icon icon="fa6-brands:js" className="display-4" />,
-    name: "JavaScript",
+    skill: <Icon icon="logos:cloudflare-icon" className="display-4" />,
+    name: "Cloudflare",
   },
+  // Container Orchestration
   {
     id: 4,
-    skill: <Icon icon="ri:bootstrap-fill" className="display-4" />,
-    name: "BootStrap",
+    skill: <Icon icon="logos:docker-icon" className="display-4" />,
+    name: "Docker",
   },
   {
     id: 5,
-    skill: <Icon icon="mdi:react" className="display-4" />,
-    name: "React",
+    skill: <Icon icon="mdi:kubernetes" className="display-4" />,
+    name: "Kubernetes",
   },
   {
     id: 6,
-    skill: <Icon icon="file-icons:styledcomponents" className="display-4" />,
-    name: "Styled Components",
+    skill: <Icon icon="logos:helm" className="display-4" />,
+    name: "Helm",
   },
   {
     id: 7,
-    skill: <Icon icon="akar-icons:redux-fill" className="display-4" />,
-    name: "Redux",
+    skill: <Icon icon="simple-icons:istio" className="display-4" />,
+    name: "Istio",
   },
+  // GitOps & CI/CD
   {
     id: 8,
-    skill: <Icon icon="bi:git" className="display-4" />,
+    skill: <Icon icon="logos:git-icon" className="display-4" />,
     name: "Git",
   },
   {
     id: 9,
-    skill: <Icon icon="fa6-brands:square-github" className="display-4" />,
-    name: "GitHub",
+    skill: <Icon icon="mdi:source-branch" className="display-4" />,
+    name: "ArgoCD",
+  },
+  {
+    id: 10,
+    skill: <Icon icon="logos:github-actions" className="display-4" />,
+    name: "GitHub Actions",
+  },
+  {
+    id: 11,
+    skill: <Icon icon="logos:jenkins" className="display-4" />,
+    name: "Jenkins",
+  },
+  // Infrastructure as Code
+  {
+    id: 12,
+    skill: <Icon icon="logos:terraform-icon" className="display-4" />,
+    name: "Terraform",
+  },
+  {
+    id: 13,
+    skill: <Icon icon="logos:ansible" className="display-4" />,
+    name: "Ansible",
+  },
+  // Monitoring & Observability
+  {
+    id: 14,
+    skill: <Icon icon="logos:prometheus" className="display-4" />,
+    name: "Prometheus",
+  },
+  {
+    id: 15,
+    skill: <Icon icon="logos:grafana" className="display-4" />,
+    name: "Grafana",
+  },
+  // Programming Languages
+  {
+    id: 16,
+    skill: <Icon icon="logos:python" className="display-4" />,
+    name: "Python",
+  },
+  {
+    id: 17,
+    skill: <Icon icon="logos:gopher" className="display-4" />,
+    name: "Go",
+  },
+  {
+    id: 18,
+    skill: <Icon icon="simple-icons:gnubash" className="display-4" />,
+    name: "Bash",
+  },
+  // Systems & Services
+  {
+    id: 19,
+    skill: <Icon icon="logos:linux-tux" className="display-4" />,
+    name: "Linux",
+  },
+  {
+    id: 20,
+    skill: <Icon icon="logos:nginx" className="display-4" />,
+    name: "Nginx",
+  },
+  {
+    id: 21,
+    skill: <Icon icon="logos:mysql-icon" className="display-4" />,
+    name: "MySQL",
   },
 ];
 
@@ -111,7 +179,7 @@ export const projectCardImages = [
   Add your formspree endpoint below.
   https://formspree.io/
 */
-export const formspreeUrl = "https://formspree.io/f/YourEndpoint";
+export const formspreeUrl = "https://formspree.io/f/xzzyzoqz";
 
 // Footer icons theme (light or dark)
 export const footerTheme = "dark";
