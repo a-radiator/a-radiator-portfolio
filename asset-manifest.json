@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/a-radiator-portfolio/static/css/main.8cbfcd42.css",
-    "main.js": "/a-radiator-portfolio/static/js/main.fb3ace69.js",
-    "static/media/hero-dark.jpg": "/a-radiator-portfolio/static/media/hero-dark.5e7575f019f9f2de8b50.jpg",
-    "static/media/defaultNavLogo.svg": "/a-radiator-portfolio/static/media/defaultNavLogo.706721ac12ea1eff172f597c8854515e.svg",
-    "static/media/logo.svg": "/a-radiator-portfolio/static/media/logo.706721ac12ea1eff172f597c8854515e.svg",
-    "static/media/hero-light.jpg": "/a-radiator-portfolio/static/media/hero-light.1d0554c76e0c400b9a20.jpg",
-    "service-worker.js": "/a-radiator-portfolio/service-worker.js",
-    "static/media/GH.svg": "/a-radiator-portfolio/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
-    "index.html": "/a-radiator-portfolio/index.html",
-    "main.8cbfcd42.css.map": "/a-radiator-portfolio/static/css/main.8cbfcd42.css.map",
-    "main.fb3ace69.js.map": "/a-radiator-portfolio/static/js/main.fb3ace69.js.map"
+    "main.css": "/static/css/main.8cbfcd42.css",
+    "main.js": "/static/js/main.5bb7b84f.js",
+    "static/media/hero-dark.jpg": "/static/media/hero-dark.5e7575f019f9f2de8b50.jpg",
+    "static/media/defaultNavLogo.svg": "/static/media/defaultNavLogo.706721ac12ea1eff172f597c8854515e.svg",
+    "static/media/logo.svg": "/static/media/logo.706721ac12ea1eff172f597c8854515e.svg",
+    "static/media/hero-light.jpg": "/static/media/hero-light.1d0554c76e0c400b9a20.jpg",
+    "service-worker.js": "/service-worker.js",
+    "static/media/GH.svg": "/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "index.html": "/index.html",
+    "main.8cbfcd42.css.map": "/static/css/main.8cbfcd42.css.map",
+    "main.5bb7b84f.js.map": "/static/js/main.5bb7b84f.js.map"
   },
   "entrypoints": [
     "static/css/main.8cbfcd42.css",
-    "static/js/main.fb3ace69.js"
+    "static/js/main.5bb7b84f.js"
   ]
 }
