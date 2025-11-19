@@ -36,7 +36,7 @@ export { HeroDark as Dark };
 */
 export const moreInfo =
 
-  "DevOps/Platform Engineer based in Manchester 🐝 who enjoys learning new tech, homelab and automation. Improving companies' lives through reliable pipelines, observability, clean automation and teaching other. Love dabbling in newer technologies such as running this via Github REST API, React and Github Pages ";
+  "DevOps/Platform Engineer based in Manchester 🐝 who enjoys learning new tech, homelab and automation. Improving companies' lives through reliable pipelines, observability, clean automation and teaching others. Love dabbling in newer technologies such as running this via Github REST API, React and Github Pages ";
 
 /* Skills
  ************************************************************** 
